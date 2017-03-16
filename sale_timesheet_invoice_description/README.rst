@@ -59,6 +59,7 @@ Contributors
 
 * Carlos Dauden <carlos.dauden@tecnativa.com>
 * Pedro M. Baeza <pedro.baeza@tecnativa.com>
+* Monsieur B <monsieurb@saaslys.com>
 
 
 Maintainer
